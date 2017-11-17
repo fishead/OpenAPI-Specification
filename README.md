@@ -2,8 +2,57 @@
 
 ---
 
-#### 中文翻译进行中，欢迎大家协助翻译
+### 中文翻译进行中，欢迎大家协助翻译
 https://github.com/fishead/OpenAPI-Specification
+
+##### 翻译进度
+- [x] [Definitions](versions/3.0.0.zhCN.md#definitions)
+	- [x] [OpenAPI Document](versions/3.0.0.zhCN.md#oasDocument)
+	- [x] [Path Templating](versions/3.0.0.zhCN.md#pathTemplating)
+	- [x] [Media Types](versions/3.0.0.zhCN.md#mediaTypes)
+	- [x] [HTTP Status Codes](versions/3.0.0.zhCN.md#httpCodes)
+- [ ] [Specification](versions/3.0.0.zhCN.md#specification)
+	- [x] [Versions](versions/3.0.0.zhCN.md#versions)
+	- [x] [Format](versions/3.0.0.zhCN.md#format)
+	- [ ] [Document Structure](versions/3.0.0.zhCN.md#documentStructure)
+	- [ ] [Data Types](versions/3.0.0.zhCN.md#dataTypes)
+	- [ ] [Rich Text Formatting](versions/3.0.0.zhCN.md#richText)
+	- [ ] [Relative References In URLs](versions/3.0.0.zhCN.md#relativeReferences)
+	- [ ] [Schema](versions/3.0.0.zhCN.md#schema)
+		- [ ] [OpenAPI Object](versions/3.0.0.zhCN.md#oasObject)
+		- [ ] [Info Object](versions/3.0.0.zhCN.md#infoObject)
+		- [ ] [Contact Object](versions/3.0.0.zhCN.md#contactObject)
+		- [ ] [License Object](versions/3.0.0.zhCN.md#licenseObject)
+		- [ ] [Server Object](versions/3.0.0.zhCN.md#serverObject)
+		- [ ] [Server Variable Object](versions/3.0.0.zhCN.md#serverVariableObject)
+		- [ ] [Components Object](versions/3.0.0.zhCN.md#componentsObject)
+		- [ ] [Paths Object](versions/3.0.0.zhCN.md#pathsObject)
+		- [ ] [Path Item Object](versions/3.0.0.zhCN.md#pathItemObject)
+		- [ ] [Operation Object](versions/3.0.0.zhCN.md#operationObject)
+		- [ ] [External Documentation Object](versions/3.0.0.zhCN.md#externalDocumentationObject)
+		- [ ] [Parameter Object](versions/3.0.0.zhCN.md#parameterObject)
+		- [ ] [Request Body Object](versions/3.0.0.zhCN.md#requestBodyObject)
+		- [ ] [Media Type Object](versions/3.0.0.zhCN.md#mediaTypeObject)
+		- [ ] [Encoding Object](versions/3.0.0.zhCN.md#encodingObject)
+		- [ ] [Responses Object](versions/3.0.0.zhCN.md#responsesObject)
+		- [ ] [Response Object](versions/3.0.0.zhCN.md#responseObject)
+		- [ ] [Callback Object](versions/3.0.0.zhCN.md#callbackObject)
+		- [ ] [Example Object](versions/3.0.0.zhCN.md#exampleObject)
+		- [ ] [Link Object](versions/3.0.0.zhCN.md#linkObject)
+		- [ ] [Header Object](versions/3.0.0.zhCN.md#headerObject)
+		- [ ] [Tag Object](versions/3.0.0.zhCN.md#tagObject)
+		- [ ] [Reference Object](versions/3.0.0.zhCN.md#referenceObject)
+		- [ ] [Schema Object](versions/3.0.0.zhCN.md#schemaObject)
+		- [ ] [Discriminator Object](versions/3.0.0.zhCN.md#discriminatorObject)
+		- [ ] [XML Object](versions/3.0.0.zhCN.md#xmlObject)
+		- [ ] [Security Scheme Object](versions/3.0.0.zhCN.md#securitySchemeObject)
+		- [ ] [OAuth Flows Object](versions/3.0.0.zhCN.md#oauthFlowsObject)
+		- [ ] [OAuth Flow Object](versions/3.0.0.zhCN.md#oauthFlowObject)
+		- [ ] [Security Requirement Object](versions/3.0.0.zhCN.md#securityRequirementObject)
+	- [ ] [Specification Extensions](versions/3.0.0.zhCN.md#specificationExtensions)
+	- [ ] [Security Filtering](versions/3.0.0.zhCN.md#securityFiltering)
+- [ ] [Appendix A: Revision History](versions/3.0.0.zhCN.md#revisionHistory)
+
 
 ---
 
