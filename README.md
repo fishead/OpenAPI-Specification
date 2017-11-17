@@ -1,4 +1,11 @@
-# The OpenAPI Specification
+# The OpenAPI Specification | 开放API规范
+
+---
+
+#### 中文翻译进行中，欢迎大家协助翻译
+https://github.com/fishead/OpenAPI-Specification
+
+---
 
 [![Build Status](https://travis-ci.org/OAI/OpenAPI-Specification.svg?branch=master)](https://travis-ci.org/OAI/OpenAPI-Specification)
 
@@ -25,7 +32,7 @@ The current version of the OpenAPI specification is [OpenAPI Specification 3.0](
 
 ### Previous Versions
 
-This repository also contains the [OpenAPI Specification 2.0](versions/2.0.md), which is identical to the Swagger 2.0 specification before it was renamed to “OpenAPI Specification”, 
+This repository also contains the [OpenAPI Specification 2.0](versions/2.0.md), which is identical to the Swagger 2.0 specification before it was renamed to “OpenAPI Specification”,
 as well as the Swagger 1.2 and Swagger 2.0 specifications.
 
 Each folder in this repository, such as [examples](examples) and [schemas](schemas), should contain folders pertaining to the current and previous versions of the specification.
@@ -41,13 +48,13 @@ Looking to see how you can create your own OpenAPI definition, present it, or ot
 
 ## Participation
 
-The current process for development of the OpenAPI Specification is described in 
+The current process for development of the OpenAPI Specification is described in
 [Development Guidelines](DEVELOPMENT.md).
 Development of the next version of the OpenAPI Specification is guided by the [Technical Developer Community (TDC)](https://www.openapis.org/participate/how-to-contribute/governance#TDC). This group of committers bring their API expertise, incorporate feedback from the community, and expand the group of committers as appropriate. All development activity on the future specification will be performed as features and merged into this branch. Upon release of the future specification, this branch will be merged to master.
 
 The TDC holds weekly web conferences to review open pull requests and discuss open issues related to the evolving OpenAPI Specification. Participation in weekly calls and scheduled working sessions is open to the community. You can view the [TDC calendar online](https://oai-technicalsteeringcommittee.groups.io/g/main/calendar), and import it to your calendar using the [iCal link](https://OAI-TechnicalSteeringCommittee.groups.io/g/main/ics/860119/668774333/feed.ics).
 
-The Open API Initiative encourages participation from individuals and companies alike. 
+The Open API Initiative encourages participation from individuals and companies alike.
 If you want to participate in the evolution of the OpenAPI Specification, consider taking the following actions:
 
 * Review the [current specification](versions/3.0.0.md). The human-readable markdown file _is the source of truth_ for the specification.
