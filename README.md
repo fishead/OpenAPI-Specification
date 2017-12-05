@@ -34,7 +34,7 @@ https://github.com/fishead/OpenAPI-Specification
 		- [x] [Request Body Object](versions/3.0.0.zhCN.md#requestBodyObject)
 		- [x] [Media Type Object](versions/3.0.0.zhCN.md#mediaTypeObject)
 		- [x] [Encoding Object](versions/3.0.0.zhCN.md#encodingObject)
-		- [ ] [Responses Object](versions/3.0.0.zhCN.md#responsesObject)
+		- [x] [Responses Object](versions/3.0.0.zhCN.md#responsesObject)
 		- [ ] [Response Object](versions/3.0.0.zhCN.md#responseObject)
 		- [ ] [Callback Object](versions/3.0.0.zhCN.md#callbackObject)
 		- [ ] [Example Object](versions/3.0.0.zhCN.md#exampleObject)
