@@ -6,11 +6,11 @@ info:
   termsOfService: http://swagger.io/terms/
   contact:
     name: Swagger API Team
-    email: foo@example.com
-    url: http://madskristensen.net
+    email: apiteam@swagger.io
+    url: http://swagger.io
   license:
-    name: MIT
-    url: http://github.com/gruntjs/grunt/blob/master/LICENSE-MIT
+    name: Apache 2.0
+    url: https://www.apache.org/licenses/LICENSE-2.0.html
 servers:
   - url: http://petstore.swagger.io/api
 paths:
@@ -55,7 +55,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/Error'
     post:
-      description: Creates a new pet in the store.  Duplicates are allowed
+      description: Creates a new pet in the store. Duplicates are allowed
       operationId: addPet
       requestBody:
         description: Pet to add to the store
@@ -127,7 +127,8 @@ components:
     Pet:
       allOf:
         - $ref: '#/components/schemas/NewPet'
-        - required:
+        - type: object
+          required:
           - id
           properties:
             id:
@@ -135,6 +136,7 @@ components:
               format: int64
 
     NewPet:
+      type: object
       required:
         - name  
       properties:
@@ -144,6 +146,7 @@ components:
           type: string    
 
     Error:
+      type: object
       required:
         - code
         - message
